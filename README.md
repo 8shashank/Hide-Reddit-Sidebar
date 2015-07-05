@@ -1,0 +1,1 @@
+Provides an option to hide the Reddit sidebar. Remembers the user's preference over sessions.
