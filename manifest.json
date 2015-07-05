@@ -2,7 +2,7 @@
   "name": "Hide Reddit Sidebar",
   "manifest_version": 2,
   "version": "0.1",
-  "description": "This extension lets you hide the Reddit sidebar"
+  "description": "This extension lets you hide the Reddit sidebar",
   "homepage_url": "http://8shashank.github.io",
   "default_locale": "en",
   "content_scripts": [
